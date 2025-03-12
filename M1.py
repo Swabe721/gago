@@ -577,7 +577,7 @@ def logo():
     ╚═╝░░░░░░╚════╝░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝╚══════╝╚══════╝
 
 {W}┌────────────────────────{S}TOOLS INFORMATION{W} ────────────────────────────┐
-{W}│  {O}❯ {R}Uses     : {G}Boosting            {R}  ➙{W} Lifetime access                │
+{W}│  {O}❯ {R}Uses     : {G} Rvboosting           {R}  ➙{W} Lifetime access                │
 {W}│  {O}❯ {R}Status   : {G} Active              {R} ➙ {W}No monthly Fee                 │
 {W}│  {O}❯ {R}Tools    : {G}Paided/Premium       {R} ➙{W} Fast Process                   │
 {W}│  {O}❯ {R}Network  : {G} All Network          {R}➙ {W}Customizable                   │
@@ -585,7 +585,7 @@ def logo():
 {W}└──────────────────────────────────────────────────────────────────────┘
 
  {W}┌──{R}[ {S}AUTHOR/OWNER{R} ]
- {W}╰────── {R}❯{Y}❯{O}❯{W}❯ {D} ADMIN """)
+ {W}╰────── {R}❯{Y}❯{O}❯{W}❯ {D} RVBOOSTING """)
  
 
 def clear():
@@ -609,7 +609,7 @@ def approval():
     try:
         user_id = str(os.geteuid())
         uuid = f"2025BOOSTING230"
-        key = f"YUSH-{uuid}"
+        key = f"RVBOOSTING-{uuid}"
         print(f"""'\x1b[1;91m'
        
         
@@ -626,7 +626,7 @@ def approval():
                 ──────────────────╔═╝║
                 ──────────────────╚══╝
 
-          {white}  OWNER      :  {R}❯{Y}❯{O}❯{W}❯ SYTHE
+          {white}  OWNER      :  {R}❯{Y}❯{O}❯{W}❯ RVBOOSTING
           {white}  TOOL       :  \x1b[1;31m  APPROVAL-SYSTEM
            {white} VERSION    :  {yellow} 7.0
            {white} Note : This tool Is paided not for {R} FREE ,  
@@ -715,7 +715,7 @@ logo_main=(f"""{P}
 {W}└──────────────────────────────────────────────────────────────────────┘
 
  {W}┌──{R}[ {S}AUTHOR/OWNER{R} ]
- {W}╰────── {R}❯{Y}❯{H}❯{W}❯ {S}SYTHE
+ {W}╰────── {R}❯{Y}❯{H}❯{W}❯ {S}RVBOOSTING
  
 {W}    ┏━━━━━━━━━━━━━━━━━━━{S} ACCOUNT STATUS {W}━━━━━━━━━━━━━━━━━━━━━━━━━┓ """)
 ##########LOGO SHARE##########
