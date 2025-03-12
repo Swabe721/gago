@@ -569,8 +569,8 @@ logo=("""
           [green_yellow]THIS [dark_olive_gre]TOOL[pale_green1] IS[dark_sea_green…] NOT FOR FREE
 """)
 ll=str([hari,tanggal])
-hx=(f"""  [bold green_yellow]DEVELOPER[medium_purple1]   ⟩ [bold red] Sythe
-  [bold red]FACEBOOK[medium_purple1]    ⟩ [bold cyan1] Yush Huilen
+hx=(f"""  [bold green_yellow]DEVELOPER[medium_purple1]   ⟩ [bold red] rvboosting
+  [bold red]FACEBOOK[medium_purple1]    ⟩ [bold cyan1] rvboosting
   [bold red]STATUS[medium_purple1]      ⟩ [bold cyan1]ACTIVE until feb 28, 2025
   [bold red]TOOL[medium_purple1]        ⟩ [bold cyan1]Paided
   [bold red]TODAY DATE[medium_purple1]  ⟩ [bold cyan1]{ll}""")
