@@ -105,7 +105,7 @@ def slow_print(text, delay=0.1):
 
 # Example Usage
 
-slow_print("'\x1b[1;94m'Welcome to YUSH Tools ", delay=0.01)
+slow_print("'\x1b[1;94m'Welcome to RVBOOSTING TOOLS ", delay=0.01)
 slow_print(" '\x1b[1;31m  This Tools Is strictly 1 device only , Purchase a full script to use Multiple Devices ", delay= 0.01)
 slow_print (" \x1b[1;31m Loading PLEASE WAIT ... ", delay= 0.07)
 
